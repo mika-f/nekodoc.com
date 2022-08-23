@@ -55,9 +55,9 @@
     chalk "^5.0.1"
 
 "@nekodoc/plugin-esbuild@^0.1.0":
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/@nekodoc/plugin-esbuild/-/plugin-esbuild-0.1.1.tgz#1d447d5474a7b57c7eda1a0503e45a77f020d5b6"
-  integrity sha512-J1sZ8FC2vUWfyDQ6iIe1OKHpSc0q6alr7UZSE8/5C7LSRmt29CRXZwWZuqVwCpGlylkN5EhGrmkPt3Br7AH4hQ==
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@nekodoc/plugin-esbuild/-/plugin-esbuild-0.1.2.tgz#fddd96840e4b1301c50cbff7cb7e86a8ef905c5b"
+  integrity sha512-9TzP/XwhLESe9qCuH3ICa6x2N4JpYw5mpgjKwrpdHO3lNiilZsChu0SHuAkM/kRGix52taFLsclCtOqGFIyaPg==
   dependencies:
     "@nekodoc/fs-utils" "^0.1.0"
     "@nekodoc/logger" "^0.1.0"
@@ -2160,7 +2160,7 @@ negotiator@0.6.3:
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.3.tgz#58e323a72fedc0d6f9cd4d31fe49f51479590ccd"
   integrity sha512-+EUsqGPLsM+j/zdChZjsnX51g4XrHFOIXwfnCVPGlQk/k5giakcKsuxCObBRu6DSm9opw/O6slWbJdghQM4bBg==
 
-nekodoc@^0.1.1:
+nekodoc@^0.1.2:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/nekodoc/-/nekodoc-0.1.2.tgz#f466a9d8150e1f2048861198ab3e1f89e4fa06c8"
   integrity sha512-zAAOLPlngO+5rGcGS5eaagO3qMSBh7tD29cZejku71R2dZ+E02eD6nC62xEHKNNs8NjByGo/fc0YB+8s0VCJbA==
