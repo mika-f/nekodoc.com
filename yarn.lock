@@ -2161,9 +2161,9 @@ negotiator@0.6.3:
   integrity sha512-+EUsqGPLsM+j/zdChZjsnX51g4XrHFOIXwfnCVPGlQk/k5giakcKsuxCObBRu6DSm9opw/O6slWbJdghQM4bBg==
 
 nekodoc@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/nekodoc/-/nekodoc-0.1.1.tgz#d9c116f23a933268049a93b3c16dffed94c8294a"
-  integrity sha512-XpIXMr6/mQMPnVOMG0mFMCbgZRsBzadox3l6zn+qlLOGgYpTeGLLmAG3N2yJ1VtB9sLvmX8R4mV3UEGEajeP2g==
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/nekodoc/-/nekodoc-0.1.2.tgz#f466a9d8150e1f2048861198ab3e1f89e4fa06c8"
+  integrity sha512-zAAOLPlngO+5rGcGS5eaagO3qMSBh7tD29cZejku71R2dZ+E02eD6nC62xEHKNNs8NjByGo/fc0YB+8s0VCJbA==
   dependencies:
     "@mdx-js/mdx" "^2.1.2"
     "@nekodoc/fs-routing" "^0.1.0"
