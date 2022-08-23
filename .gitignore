@@ -146,3 +146,5 @@ dist
 .nekodoc/
 .vercel/
 *.js
+!nekodoc.config.js
+!tailwind.config.js
