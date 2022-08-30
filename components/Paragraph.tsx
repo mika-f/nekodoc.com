@@ -5,7 +5,7 @@ type Props = {
 };
 
 const Paragraph: React.FC<Props> = ({ children }) => (
-  <p className="my-2">{children}</p>
+  <p className="my-1">{children}</p>
 );
 
 export default Paragraph;

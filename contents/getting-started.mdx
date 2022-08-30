@@ -9,6 +9,11 @@ layout: Default
 NekoDoc is a tools for creating/development static website.  
 If you are famililar with Node.js and React, you can easy to use NekoDoc!
 
+## Requirements
+
+NekoDoc is running on Node.js greater than 16.x and ESM environment.  
+If you are not installed it, install it at the first.
+
 ## Installation
 
 NekoDoc is published to a NPM (and Yarn) registry, and can installed with `yarn` or `npm` command.
@@ -51,10 +56,9 @@ $ npx nekodoc init
 </TabItem>
 </Tab>
 
-This command will create below two files into your current directory.
+This command will create below file(s) into your current directory.
 
-- `nekodoc.config.js`
 - `tailwind.config.js`
 
-The `nekodoc.config.js` is a configuration file for NekoDoc, otherwise; configuration file for [TailwindCSS](https://tailwindcss.com/).  
-After the creation configuration files, create `index.mdx` into `contents` directory and run `nekodoc start`, you can preview your website at http://localhost:7225.
+`tailwind.config.js` is configuration file for [TailwindCSS](https://tailwindcss.com/).  
+After the creation configuration file(s), create `index.mdx` into `contents` directory and run `nekodoc start`, you can preview your website at http://localhost:7225.
